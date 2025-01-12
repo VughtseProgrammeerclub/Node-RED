@@ -14,5 +14,9 @@ Voer daar dit commando uit:     docker run -it -p 1880:1880 -v node_red_data:/da
 Docker gaat nu het juiste image downloaden en installeren.
 Na een tijdje zie je dat de installatie klaar is.
 Ga naar je browser en tik in: http://127.0.0.1:1880/
-Kom je nu in een Node-RED scherm, dan is de installatie gelukt en ben je klaar voor de cursusavond.
+Kom je nu in een Node-RED scherm, dan is de installatie gelukt en ben je bijna klaar voor de cursusavond.
+
+##Toevoegen Node-RED Dashboard
+We gaan ook werken met een node-RED dashboard.
+Deze is standaard niet aanwezig in Node-RED, maar kunnen we toevoegen.
 

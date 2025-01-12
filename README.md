@@ -3,7 +3,7 @@ Materiaal voor de Node-RED cursusavond
 
 # Voordat je naar de cursusavond komt
 Als je tijdens de avond zelf op je laptop mee wil doen, voer dan onderstaande handelingen thuis al uit.
-Dit bespaard heel veel tijd op de avond zelf.
+Dit bespaart heel veel tijd op de avond zelf.
 
 ## Installatie Docker Desktop en Node-RED container
 Voor Docker Dektop, volg deze link voor de installatie voor jouw OS en systeem:

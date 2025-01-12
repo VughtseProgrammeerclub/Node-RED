@@ -32,6 +32,8 @@ Het "dashboard" tab.
 
 ![image](https://github.com/user-attachments/assets/05523825-3bb4-4d10-890d-1d372cd76bc6)
 
+Je kan nu testen of je dashboard installatie geukt is. 
+Ga naar http://localhost:1880/ui/ en kijk of je iets van een webpagina krijgt met een welkombericht.
 
 Als dit allemaal gelukt is ben je helemaal klaar voor de cursusavond.
 Je kan de container veilig afsluiten door in Docker desktop op de stopknop van de container te klikken.

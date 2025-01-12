@@ -16,7 +16,29 @@ Na een tijdje zie je dat de installatie klaar is.
 Ga naar je browser en tik in: http://127.0.0.1:1880/
 Kom je nu in een Node-RED scherm, dan is de installatie gelukt en ben je bijna klaar voor de cursusavond.
 
-##Toevoegen Node-RED Dashboard
+## Toevoegen Node-RED dashboard
 We gaan ook werken met een node-RED dashboard.
 Deze is standaard niet aanwezig in Node-RED, maar kunnen we toevoegen.
+Dit kun je doen als je in de webinterface van Node-RED zit. (http://127.0.0.1:1880/)
+Ga rechtsboven naar het hamburger-menu en kies "Manage palette" (of gebruik shift-Alt P)
+Kies de tab "INSTALL" en type in de searchbar "dashboard"
+De bovenste keuze is direct het dashboard wat we gaan gebruiken. (node-red-dashboard)
+
+![image](https://github.com/user-attachments/assets/eb9e4006-661f-47ce-b992-db8ed9cc0134)
+
+Klik op "install".
+Nu worden er een aantal modules geïnstalleerd. En als dit gebeurd is heb je in het menu links een aantal keuzes extra gekregen.
+Het "dashboard" tab.
+
+![image](https://github.com/user-attachments/assets/05523825-3bb4-4d10-890d-1d372cd76bc6)
+
+
+Als dit allemaal gelukt is ben je helemaal klaar voor de cursusavond.
+Je kan de container veilig afsluiten door in Docker desktop op de stopknop van de container te klikken.
+Op deze plaats kan je hem ook weer starten als je verder wil gaan met Node-RED.
+
+![image](https://github.com/user-attachments/assets/8a0d78e8-708e-41cb-a3ef-72fb021de4e0)
+
+
+
 

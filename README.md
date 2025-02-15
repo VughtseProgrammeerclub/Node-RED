@@ -11,7 +11,7 @@ https://docs.docker.com/desktop/setup/install/windows-install/
 
 * Na installatie en het starten van Docker Desktop, ga naar een terminal (cmd.exe in Windows)
 * Voer daar dit commando uit: `docker run -it -p 1880:1880 -v node_red_data:/data --name mynodered nodered/node-red`
-  * jJ kan de regel kopiëren met [Ctrl][C] en met [Ctrl]**[Shift]**[V] plakken in de opdrachtprompt (Command Prompt).
+  * Je kan de regel kopiëren met [Ctrl][C] en met [Ctrl]**[Shift]**[V] plakken in de opdrachtprompt (Command Prompt).
 * Docker gaat nu het juiste image downloaden en installeren.
 * Na een tijdje zie je dat de installatie klaar is.
 * Ga naar je browser en tik in: http://127.0.0.1:1880/
